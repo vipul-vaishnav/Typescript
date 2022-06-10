@@ -47,21 +47,21 @@ To Configure settings
 
 - JavaScript
 
-1 number
-2 string
-3 boolean
-4 null
-5 undefined
-6 object
-7 bigInt
+1. number
+2. string
+3. boolean
+4. null
+5. undefined
+6. object
+7. bigInt
 
 - TypeScript
 
-1 any
-2 unknown
-3 never
-4 enum
-5 tuple
+1. any
+2. unknown
+3. never
+4. enum
+5. tuple
 
 ## Authors
 
