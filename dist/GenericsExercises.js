@@ -22,8 +22,4 @@ const entity3 = new Entity({
 });
 console.log(entity1.UID);
 console.log(entity3.UID.prefix);
-function createUser(property, id) {
-    console.log({ property, id });
-}
-createUser("username", 1234);
 //# sourceMappingURL=GenericsExercises.js.map
